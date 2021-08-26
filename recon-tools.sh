@@ -64,7 +64,7 @@ go get -u github.com/tomnomnom/hacks/html-tool
 echo "done"
 
 #Installing Haktldextract tool
-go get github.com/hakluke/haktldextract
+GO111MODULE=on go get github.com/hakluke/haktldextract
 echo "done"
 
 #Installing Qsreplace tool
