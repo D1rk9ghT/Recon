@@ -9,14 +9,14 @@ Bug Bounty Recon Tools
 <br>
 <br>
 <h1>Tools</h1>
-  Waybackurls
-  Subfinder
-  Httpx
-  Gau
-  Assetfinder
-  Anew
-  Httprobe
-  Meg
+  Waybackurls<br>
+  Subfinder<br>
+  Httpx<br>
+  Gau<br>
+  Assetfinder<br>
+  Anew<br>
+  Httprobe<br>
+  Meg<br>
 <h2>Installing Tools</h2>
 <addr>
 > git clone https://github.com/D1rk9ghT/Recon.git <br>
