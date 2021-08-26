@@ -5,5 +5,7 @@ Bug Bounty Recon Tools
 * Extract it in your home directory <br>
 * Run This command ```sudo apt-get install golang``` <br> 
 * Run this command ```export GOPATH=$HOME/go``` <br>
+
+Follow on Twitter https://twitter.com/HackTube5
   
 
