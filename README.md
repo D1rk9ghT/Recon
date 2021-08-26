@@ -1,5 +1,5 @@
 # Recon
-Bug Bounty Recon Tools
+All Bug Bounty Recon Tools in One File 
 <h1>Install golang</h1>
 * Download golang from here https://golang.org/dl/ <br>
 * Extract it in your home directory <br>
