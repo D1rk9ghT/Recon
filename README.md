@@ -9,6 +9,7 @@ Bug Bounty Recon Tools
 <br>
 <br>
 <h1>Tools</h1>
+  Dalfox<br>
   Waybackurls<br>
   Subfinder<br>
   Httpx<br>
