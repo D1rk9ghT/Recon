@@ -12,7 +12,7 @@ Bug Bounty Recon Tools
 > cd recon <br>
 > chmod +x recon-tools.sh <br>
 > ./recon-tools.sh <br>
-Run ./recon-tools.sh for update 
+Run **./recon-tools.sh** for update 
 <br>
 <br>
 <br>
