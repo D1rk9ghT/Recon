@@ -26,4 +26,11 @@ go get -u github.com/tomnomnom/assetfinder
 #Installing meg tool
 go get -u github.com/tomnomnom/meg
 
+#Installing gau tool
+GO111MODULE=on go get -u -v github.com/lc/gau
+
+cd $home/go/bin
+cp * /usr/local/bin
+
+Happy Hacking by @Hacktub5
 
