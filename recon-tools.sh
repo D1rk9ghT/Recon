@@ -43,6 +43,33 @@ echo "done"
 GO111MODULE=on go get -v github.com/hahwul/dalfox/v2
 echo "done"
 
+#Installing Haktrails Tool
+go get github.com/hakluke/haktrails
+echo "done"
+
+#Installing getJs tool
+go get github.com/003random/getJS
+echo "done"
+
+#Installing gospider tool
+GO111MODULE=on go get -u github.com/jaeles-project/gospider
+echo "done"
+
+Installing Kxss tool
+go get github.com/Emoe/kxss
+echo "done"
+
+#Installing html-tool
+go get -u github.com/tomnomnom/hacks/html-tool
+echo "done"
+
+#Installing Haktldextract tool
+go get github.com/hakluke/haktldextract
+echo "done"
+
+#Installing Qsreplace tool
+go get -u github.com/tomnomnom/qsreplace
+
 cd $home/go/bin
 cp * /usr/local/bin
 
