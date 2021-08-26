@@ -12,6 +12,7 @@ Bug Bounty Recon Tools
   Dalfox<br>
   Waybackurls<br>
   Subfinder<br>
+  Findomain<br>
   Httpx<br>
   Gau<br>
   Assetfinder<br>
