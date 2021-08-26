@@ -69,6 +69,11 @@ echo "done"
 
 #Installing Qsreplace tool
 go get -u github.com/tomnomnom/qsreplace
+echo "done"
+
+#Installing Ffuf tool
+go get -u github.com/ffuf/ffuf
+echo "done"
 
 cd $home/go/bin
 cp * /usr/local/bin
