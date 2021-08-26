@@ -12,7 +12,6 @@ Bug Bounty Recon Tools
 > cd recon <br>
 > chmod +x recon-tools.sh <br>
 > ./recon-tools.sh <br>
-</addr>
 
 <br>
 <br>
