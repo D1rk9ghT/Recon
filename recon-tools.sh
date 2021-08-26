@@ -3,6 +3,7 @@ sudo apt-get upgrade -y
 
 sudo apt-get install python3-pip -y 
 sudo apt install cargo -y 
+sudo apt-get install sublist3r
 
 
 #Installing httpx tool  
