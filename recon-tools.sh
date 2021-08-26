@@ -29,6 +29,9 @@ go get -u github.com/tomnomnom/meg
 #Installing gau tool
 GO111MODULE=on go get -u -v github.com/lc/gau
 
+#Installing Dalfox tool 
+GO111MODULE=on go get -v github.com/hahwul/dalfox/v2
+
 cd $home/go/bin
 cp * /usr/local/bin
 
