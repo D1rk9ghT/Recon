@@ -13,6 +13,7 @@ Bug Bounty Recon Tools
   Waybackurls<br>
   Subfinder<br>
   Findomain<br>
+  sublist3r<br>
   Httpx<br>
   Gau<br>
   Assetfinder<br>
