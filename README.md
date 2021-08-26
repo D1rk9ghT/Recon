@@ -15,11 +15,18 @@ Bug Bounty Recon Tools
   Findomain<br>
   sublist3r<br>
   Httpx<br>
+  Qsreplace<br>
   Gau<br>
   Assetfinder<br>
   Anew<br>
   Httprobe<br>
   Meg<br>
+  Haktrails<br>
+  Kxss<br>
+  GetJs<br>
+  GoSpider<br>
+  Html-Tool<br>
+  Haktldextract<br>
 <h2>Installing Tools</h2>
 <addr>
 > git clone https://github.com/D1rk9ghT/Recon.git <br>
