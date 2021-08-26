@@ -5,7 +5,18 @@ Bug Bounty Recon Tools
 * Extract it in your home directory <br>
 * Run This command ```sudo apt-get install golang``` <br> 
 * Run this command ```export GOPATH=$HOME/go``` <br>
-
+<br>
+<br>
+<br>
+<h1>Tools</h1>
+  Waybackurls
+  Subfinder
+  Httpx
+  Gau
+  Assetfinder
+  Anew
+  Httprobe
+  Meg
 <h2>Installing Tools</h2>
 <addr>
 > git clone https://github.com/D1rk9ghT/Recon.git <br>
