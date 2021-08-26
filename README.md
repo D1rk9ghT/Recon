@@ -7,10 +7,11 @@ Bug Bounty Recon Tools
 * Run this command ```export GOPATH=$HOME/go``` <br>
 
 <h2>Installing Tools</h2>
-```* git clone https://github.com/D1rk9ghT/Recon.git
-* cd recon 
-* chmod +x recon-tools.sh
-* ./recon-tools.sh
+```
+* git clone https://github.com/D1rk9ghT/Recon.git <br>
+* cd recon <br>
+* chmod +x recon-tools.sh <br>
+* ./recon-tools.sh <br>
 
 ```
 <br>
