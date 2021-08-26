@@ -14,6 +14,7 @@ Bug Bounty Recon Tools
   Subfinder<br>
   Findomain<br>
   sublist3r<br>
+  FFUF<br>
   Httpx<br>
   Qsreplace<br>
   Gau<br>
