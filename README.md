@@ -8,10 +8,10 @@ Bug Bounty Recon Tools
 
 <h2>Installing Tools</h2>
 <addr>
-* git clone https://github.com/D1rk9ghT/Recon.git <br>
-* cd recon <br>
-* chmod +x recon-tools.sh <br>
-* ./recon-tools.sh <br>
+> git clone https://github.com/D1rk9ghT/Recon.git <br>
+> cd recon <br>
+> chmod +x recon-tools.sh <br>
+> ./recon-tools.sh <br>
 </addr>
 
 <br>
