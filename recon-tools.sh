@@ -31,8 +31,8 @@ echo "done"
  go get -u github.com/tomnomnom/httprobe
  echo "done"
 
-#Installing meg tool
-go get -u github.com/tomnomnom/meg
+#Installing gf tool
+go get -u github.com/tomnomnom/gf
 echo "done"
 
 #Installing gau tool
@@ -43,28 +43,28 @@ echo "done"
 GO111MODULE=on go get -v github.com/hahwul/dalfox/v2
 echo "done"
 
-#Installing Haktrails Tool
-go get github.com/hakluke/haktrails
+#Installing dnsx
+go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 echo "done"
 
-#Installing getJs tool
-go get github.com/003random/getJS
+#Installing github-subdomain tool
+go get -u github.com/gwen001/github-subdomains
 echo "done"
 
 #Installing gospider tool
 GO111MODULE=on go get -u github.com/jaeles-project/gospider
 echo "done"
 
-Installing Kxss tool
+#Installing Kxss tool
 go get github.com/Emoe/kxss
 echo "done"
 
-#Installing html-tool
-go get -u github.com/tomnomnom/hacks/html-tool
+#Installing freq
+go get -u https://github.com/takshal/freq
 echo "done"
 
-#Installing Haktldextract tool
-GO111MODULE=on go get github.com/hakluke/haktldextract
+#Installing subzy tool
+go install -v github.com/lukasikic/subzy@latest
 echo "done"
 
 #Installing Qsreplace tool
@@ -74,6 +74,11 @@ echo "done"
 #Installing Ffuf tool
 go get -u github.com/ffuf/ffuf
 echo "done"
+
+#installing nrich
+wget https://gitlab.com/api/v4/projects/33695681/packages/generic/nrich/latest/nrich_latest_amd64.deb
+sudo dpkg -i nrich_latest_amd64.deb
+
 
 cd $home/go/bin
 cp * /usr/local/bin
@@ -85,5 +90,5 @@ cd findomain
 cargo build --release
 sudo cp target/release/findomain /usr/bin/
 
-echo "Happy Hacking by @Hacktub5"
+echo "Happy Hacking by @abdulx01"
 
