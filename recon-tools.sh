@@ -85,5 +85,14 @@ cd findomain
 cargo build --release
 sudo cp target/release/findomain /usr/bin/
 
-echo "Happy Hacking by @Hacktub5"
+#installing sublist3r 
+sudo apt-get install sublist3r
+
+#installing altdns 
+pip3 install altdns 
+
+#Installing airixss
+go install github.com/chromedp/chromedp@latest
+
+echo "Happy Hacking by @Hacktube5"
 
