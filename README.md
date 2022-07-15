@@ -28,6 +28,9 @@ All Bug Bounty Recon Tools in One File
   GoSpider<br>
   Html-Tool<br>
   Haktldextract<br>
+  Airixss<br>
+  Altdns<br>
+  
 <h2>Installing Tools</h2>
 <addr>
 > git clone https://github.com/D1rk9ghT/Recon.git <br>
@@ -40,6 +43,6 @@ Run ./recon-tools.sh for update
 <br>
 <br>
 <br>
-Follow on Twitter https://twitter.com/HackTube5
+  <h1>Follow on Twitter <a href="https://twitter.com/HackTube5">Hacktube5</a></h1>
   
 
