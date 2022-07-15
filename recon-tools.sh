@@ -7,72 +7,72 @@ sudo apt-get install sublist3r
 
 
 #Installing httpx tool  
-GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 echo "done"
 
 #Installing waybackurls tool 
-go get github.com/tomnomnom/waybackurls
+go install github.com/tomnomnom/waybackurls@latest
 echo "done"
 
 
 #Installing subfinder tool 
-GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 echo "done"
 
 #Installing assetfinder tool
-go get -u github.com/tomnomnom/assetfinder
+go install github.com/tomnomnom/assetfinder@latest
 echo "done"
 
 #Installing anew tool
- go get -u github.com/tomnomnom/anew
+ go install github.com/tomnomnom/anew@latest
  echo "done"
 
  #Installing httprob tool
- go get -u github.com/tomnomnom/httprobe
+ go install github.com/tomnomnom/httprobe@latest
  echo "done"
 
 #Installing meg tool
-go get -u github.com/tomnomnom/meg
+go install github.com/tomnomnom/meg@latest
 echo "done"
 
 #Installing gau tool
-GO111MODULE=on go get -u -v github.com/lc/gau
+go install github.com/lc/gau@latest
 echo "done"
 
 #Installing Dalfox tool 
-GO111MODULE=on go get -v github.com/hahwul/dalfox/v2
+go install github.com/hahwul/dalfox/v2@latest
 echo "done"
 
 #Installing Haktrails Tool
-go get github.com/hakluke/haktrails
+go install github.com/hakluke/haktrails@latest
 echo "done"
 
 #Installing getJs tool
-go get github.com/003random/getJS
+go install github.com/003random/getJS@latest
 echo "done"
 
 #Installing gospider tool
-GO111MODULE=on go get -u github.com/jaeles-project/gospider
+go install github.com/jaeles-project/gospider@latest
 echo "done"
 
 Installing Kxss tool
-go get github.com/Emoe/kxss
+go install github.com/Emoe/kxss@latest
 echo "done"
 
 #Installing html-tool
-go get -u github.com/tomnomnom/hacks/html-tool
+go install github.com/tomnomnom/hacks/html-tool@latest
 echo "done"
 
 #Installing Haktldextract tool
-GO111MODULE=on go get github.com/hakluke/haktldextract
+go install github.com/hakluke/haktldextract@latest
 echo "done"
 
 #Installing Qsreplace tool
-go get -u github.com/tomnomnom/qsreplace
+go install github.com/tomnomnom/qsreplace@latest
 echo "done"
 
 #Installing Ffuf tool
-go get -u github.com/ffuf/ffuf
+go install github.com/ffuf/ffuf@latest
 echo "done"
 
 cd $home/go/bin
@@ -84,9 +84,6 @@ git clone https://github.com/findomain/findomain.git
 cd findomain
 cargo build --release
 sudo cp target/release/findomain /usr/bin/
-
-#installing sublist3r 
-sudo apt-get install sublist3r
 
 #installing altdns 
 pip3 install altdns 
